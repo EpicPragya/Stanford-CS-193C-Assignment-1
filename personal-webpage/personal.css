@@ -1,0 +1,17 @@
+img {
+    width: 25%;
+    float: left;
+}
+
+p, ul{
+    font-family: sans-serif;
+    padding-left: 30%;
+}
+
+a:hover {
+     color: #FF0000;
+}
+p{
+    font-style: italic;
+
+}
