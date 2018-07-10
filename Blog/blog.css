@@ -1,0 +1,27 @@
+img  {
+    float: right;
+    padding: 2px;
+}
+body {
+    background-color:powderblue;
+    
+}
+.entry {
+    border-style: inset;
+    padding: 5px;
+}
+h1{
+    padding: 15px;
+    background: white;
+    background-clip: padding-box;
+    color: red;
+    
+}
+
+.seal{
+    height:100%;
+    width:40px;
+    float: left;
+    vertical-align: middle;
+    padding-right: 5px;
+}
